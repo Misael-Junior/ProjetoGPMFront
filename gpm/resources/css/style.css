@@ -1,0 +1,95 @@
+/* Style */
+
+
+/* Nav Top */
+.navbar{
+	background-color: #428bca;
+	border-color: #428bca;
+	color: #FFFFFF;
+
+}
+
+/*Cor do Label do Topo*/
+.navbar-inverse .navbar-brand {
+   	color: #FFFFFF;
+   	font-size: 23px;
+}
+
+/* Cor do item do Label selecionado */
+.navbar-inverse .navbar-brand:hover{
+	color: #87CEFF;
+}
+
+/*Cor do texto de Menu do Topo */
+.navbar-inverse .nav > li > a {
+   color: #FFFFFF;
+}
+
+/* Cor do item do menu selecionado */
+.navbar-inverse .nav > li > a:hover{
+   color: #87CEFF;
+}
+
+/* Mensagem de Confirmação */
+.alert{
+	margin-top: 40px;
+	text-align: center;
+}
+
+/* Painel do Login */
+.panel-login{
+	width: 400px;
+	height: 310px;
+	margin: 100px  auto;
+}
+
+.panel-title-login{
+	margin: 10px 160px; 
+	color: #FFFFFF;
+	text-align: center;
+}
+
+/* Fim */
+
+/* Painel do Computador */
+
+.panel-computador{
+	margin: 100px auto;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.panel-title-computador{
+	margin: 10px; 
+	color: #FFFFFF;
+	text-align: center;
+}
+
+/* Margin do Painel de Dentro*/
+.form-horizontal{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+/* Margim Entre os inputs */
+
+.form-group{
+	margin-top: 20px;
+}
+
+/* Botão Cadastrar */
+
+.btn-cadastrar{
+	margin: 10px 190px;
+	width: 170px;
+	right: 10px;
+}
+
+/* Chackbox */
+
+.checkConectado{
+	margin: 4px 100px;
+}
+
+
+
